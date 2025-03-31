@@ -1,7 +1,6 @@
 import React from "react";
 import MarkdownEditor from "./MarkdownEditor";
-import "../styles.css"; 
-
+import "../styles.css"; // Fix incorrect import
 
 const App = () => {
   return (
